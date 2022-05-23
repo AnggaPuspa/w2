@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AnggaPuspa/w2/static/css/main.76110e25.chunk.css",
+    "main.js": "/AnggaPuspa/w2/static/js/main.78950896.chunk.js",
+    "main.js.map": "/AnggaPuspa/w2/static/js/main.78950896.chunk.js.map",
+    "runtime-main.js": "/AnggaPuspa/w2/static/js/runtime-main.1ee1d2f8.js",
+    "runtime-main.js.map": "/AnggaPuspa/w2/static/js/runtime-main.1ee1d2f8.js.map",
+    "static/js/2.d0751e54.chunk.js": "/AnggaPuspa/w2/static/js/2.d0751e54.chunk.js",
+    "static/js/2.d0751e54.chunk.js.map": "/AnggaPuspa/w2/static/js/2.d0751e54.chunk.js.map",
+    "index.html": "/AnggaPuspa/w2/index.html",
+    "static/css/main.76110e25.chunk.css.map": "/AnggaPuspa/w2/static/css/main.76110e25.chunk.css.map",
+    "static/js/2.d0751e54.chunk.js.LICENSE.txt": "/AnggaPuspa/w2/static/js/2.d0751e54.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/AnggaPuspa/w2/static/media/address.a01cb8cc.png",
+    "static/media/ane.b58c0a9b.jpg": "/AnggaPuspa/w2/static/media/ane.b58c0a9b.jpg",
+    "static/media/email.a49e0158.png": "/AnggaPuspa/w2/static/media/email.a49e0158.png",
+    "static/media/me.4e8b4227.png": "/AnggaPuspa/w2/static/media/me.4e8b4227.png",
+    "static/media/moon.3bea3d39.png": "/AnggaPuspa/w2/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/AnggaPuspa/w2/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/AnggaPuspa/w2/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ee1d2f8.js",
+    "static/js/2.d0751e54.chunk.js",
+    "static/css/main.76110e25.chunk.css",
+    "static/js/main.78950896.chunk.js"
+  ]
+}
